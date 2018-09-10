@@ -1,6 +1,6 @@
-import {Injectable} from '@angular/core';
-import {CountryLocale} from '../interface/country-locale.interface';
-import {CountryCode} from "../interface/country-code.interface";
+import { Injectable } from '@angular/core';
+import { CountryLocale } from '../interface/country-locale.interface';
+import { CountryCode } from "../interface/country-code.interface";
 
 @Injectable()
 export class LocaleService {
@@ -112,7 +112,7 @@ export class LocaleService {
       'ir': 'IRAN ',
       'iq': 'IRAQ',
       'ie': 'IRELAND',
-      'im': 'ISLA DE MAN',
+      'im': 'ISLA OF MAN',
       'il': 'ISRAEL',
       'it': 'ITALY',
       'jm': 'JAMAICA',
@@ -365,7 +365,7 @@ export class LocaleService {
       'ir': 'IRÁN',
       'iq': 'IRAK',
       'ie': 'IRLANDA',
-      'im': 'ISLA DE MAN',
+      'im': 'ISLA OF MAN',
       'il': 'ISRAEL',
       'it': 'ITALIA',
       'jm': 'JAMAICA',
